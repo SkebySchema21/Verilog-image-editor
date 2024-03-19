@@ -1,5 +1,5 @@
-# Verilog-image-editor
-This is the barebones Verilog code file for an image editor. Other support files/testing applications are not included. This image editor applies the following filters in order, immediately after the previous one ends:
+# Verilog-image-processor
+This is the barebones Verilog code file for image processing. Other support files/testing applications are not included. This file applies the following filters in order, immediately after the previous one ends:
 
 - Mirroring
 - Grayscaling
